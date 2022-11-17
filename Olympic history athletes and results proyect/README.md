@@ -1,2 +1,2 @@
-# 120 years of Olympyc History
+# SQL-Scripts
 A collection of my SQL files.
