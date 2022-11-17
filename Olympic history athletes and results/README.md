@@ -1,2 +1,2 @@
-# 120 years of Olympic history athletes and results Querys
+# SQL-Scripts
 A collection of my SQL files.
