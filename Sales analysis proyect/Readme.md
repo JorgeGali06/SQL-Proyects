@@ -13,6 +13,9 @@ In this proyect, we explore a sales dataset and generate various analytics and i
 To apply the RFM technique, three variables must be considered: Recency, Frequency, Monetary.
 
 Recency: When was the last time the customer made a purchase?
+
 Frequency: How many times did you make purchases in a given period of time?
+
 Monetary value: How much has the customer spent on purchases made in that period of time?
+
 From there, the customer database is segmented, each variable is given a value from 1 to 5, with 1 being the worst score and 5 being the best.
